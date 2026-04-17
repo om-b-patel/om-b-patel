@@ -1,6 +1,6 @@
 # Hey, I'm Om
 
-Co-founder & CEO of [Osmoti](https://www.osmoti.com), the autonomous AI ad manager for small and midsize businesses. Business major at Georgia Tech, class of 2026.
+Co-founder & CEO of [Osmoti](https://www.osmoti.com), the autonomous AI ad manager for small and midsize businesses. Business Administration major at Georgia Tech, class of 2026.
 
 Before Osmoti, I founded [Trailblazer Trailers](https://trailblazertrailers.com), a licensed Georgia dealership I built end-to-end from lot acquisition to compliance to the systems that run it day to day. I also spent two years as the right-hand consultant for Dennis Hayes, inventor of the PC modem, at his startup advisory firm.
 
